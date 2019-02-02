@@ -1,11 +1,11 @@
 # Testy platforma AI dla Ksiegowosci
-WSB
+
 ## Spec
-specjal
-### Referencje
+
+## Referencje
 
 ## TODO
 pierwszy commit
-drugi
+drugi commit
 
 
