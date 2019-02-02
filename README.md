@@ -6,5 +6,6 @@ specjal
 
 #### TODO
 pierwszy commit
+drugi
 
 
