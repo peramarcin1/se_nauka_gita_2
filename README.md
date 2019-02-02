@@ -12,4 +12,6 @@ drugi commit
 
 ## Smoke tests
 
+test pierwszy
+
 
