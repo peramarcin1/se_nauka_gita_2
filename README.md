@@ -10,4 +10,8 @@ pierwszy commit
 
 drugi commit
 
+## Smoke tests
+
+test pierwszy
+
 
